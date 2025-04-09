@@ -7,7 +7,7 @@ The purpose of the Internal Security Audit was to familiarize myself with the di
 ### What I Learned
 
 - The different elements that make up an organization's security posture and how they help keep an organization safe. 
-- Differet laws/regualtaions that Botium Toys needed to comply with and how they could start doing so.
+- Differet laws/regualtaions that Botium Toys (the imaginary company I did the internal security audit for) needed to comply with and how they could start doing so.
 - The various steps involved in an internal security audit. 
 - How to summarize the security audit in order for it to be clear to undertand. 
 
