@@ -21,7 +21,7 @@ The purpose of the Internal Security Audit was to familiarize myself with the di
 
 As I went through the checklist and wrote my recommendations, I read the "Botium Toys: Scope, goals, and risk assessment report" (given my the IT department of Botium Toys) which helped me to complete the project. 
 
-<img src= "https://github.com/user-attachments/assets/18d964fc-ed59-4061-bcfe-790f81d593c7" />
+<img src= "https://github.com/user-attachments/assets/6f4b5d4c-7852-4308-bd23-db369087bb95" />
 
 - I then went through the "Controls Assessment Checklist" to see what kind of controls Botium Toys had in place and what they needed.
   
@@ -33,23 +33,23 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 - Then, I looked to see how customer PIIs are being handled and whether or not the company is complying with current regulations.
   
-<img src = "https://github.com/user-attachments/assets/6fca5772-6572-4db6-a818-c66d67e19962" />
+<img src= "https://github.com/user-attachments/assets/e4734a5b-b5d7-4e1e-b1a0-7863681c35cb" />
 
 - Next, I decided to write the recommendations I encouraged Botium Toys to implement to its system in order to strengthen their security posture.
 - To begin my recommendations I first wrote the benefits of making the improvemtents and why it was necessary.
 - I also clearly wrote the level of risk the company faces and the reasons why.
 
-<img src= "https://github.com/user-attachments/assets/c28eab9b-4815-40ce-9fc6-daf47bd9641d" />
+<img src= "https://github.com/user-attachments/assets/36cdcfd4-a51b-477a-babf-6d2b2f8e4d72" />
 
 - I began listing the changes Botium Toys needed to make to its administration/managerial contorls.
   
-<img src= "https://github.com/user-attachments/assets/677156cf-5a6a-4594-96b0-da1a8bd33c76" />
+<img src= "https://github.com/user-attachments/assets/53ebd51e-9685-4b4c-b5e4-2e112cebd055" />
 
-<img src= "https://github.com/user-attachments/assets/6646c749-a6f3-4731-9456-ad5907b3475f" />
+<img src ="https://github.com/user-attachments/assets/5ef66560-2cc8-4bae-907b-daf2adffb4f1" />
 
 - Next, I listed the changes Botium Toys needed to make to its technical controls.
 
- <img src= "https://github.com/user-attachments/assets/b39657e2-8d62-493b-a73e-502660ac7827" />
+<img src = "https://github.com/user-attachments/assets/fea2df63-d1d2-42b6-869a-0d8e34dd03d4" />
 
  -Then, I listed some improvements that Botium Toys could implement to its physical controls.
 
