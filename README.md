@@ -51,7 +51,7 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 <img src = "https://github.com/user-attachments/assets/fea2df63-d1d2-42b6-869a-0d8e34dd03d4" />
 
- -Then, I listed some improvements that Botium Toys could implement to its physical controls.
+ - Then, I listed some improvements that Botium Toys could implement to its physical controls.
 
 <img src= "https://github.com/user-attachments/assets/d4d8ef0e-7c62-47ab-b939-05dd13fff429" />
 
