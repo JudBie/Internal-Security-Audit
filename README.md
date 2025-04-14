@@ -21,9 +21,13 @@ The purpose of the Internal Security Audit was to familiarize myself with the di
 
 As I went through the checklist and wrote my recommendations, I read the "Botium Toys: Scope, goals, and risk assessment report" (given my the IT department of Botium Toys) which helped me to complete the project. 
 
+*Ref 1: Controls Assessment Checklist*
+
 <img src= "https://github.com/user-attachments/assets/6f4b5d4c-7852-4308-bd23-db369087bb95" />
 
 - I then went through the "Controls Assessment Checklist" to see what kind of controls Botium Toys had in place and what they needed.
+
+*Ref 2: *
   
 <img src= "https://github.com/user-attachments/assets/af8ad94c-5d2f-4459-af88-8dd6294d0841" />
   
