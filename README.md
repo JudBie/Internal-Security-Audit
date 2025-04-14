@@ -60,7 +60,7 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 *Ref 6: Physical Controls*
 
-<omg src= "https://github.com/user-attachments/assets/8fe62672-6ea4-4b59-b251-92c843943dce"/>
+<img src= "https://github.com/user-attachments/assets/8fe62672-6ea4-4b59-b251-92c843943dce"/>
 
  - Then, I listed some improvements that Botium Toys could implement to its physical controls.
 
