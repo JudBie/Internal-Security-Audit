@@ -27,7 +27,7 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 - I then went through the "Controls Assessment Checklist" to see what kind of controls Botium Toys had in place and what they needed.
 
-###Ref 2: Compliance Checklist*
+### Ref 2: Compliance Checklist*
   
 <img src= "https://github.com/user-attachments/assets/af8ad94c-5d2f-4459-af88-8dd6294d0841" />
   
@@ -37,7 +37,7 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 - Then, I looked to see how customer PIIs are being handled and whether or not the company is complying with current regulations.
   
-###Ref 3: Summary and Risk Score*
+### Ref 3: Summary and Risk Score*
 
 <img src= "https://github.com/user-attachments/assets/e4734a5b-b5d7-4e1e-b1a0-7863681c35cb" />
 
@@ -45,12 +45,12 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 - To begin my recommendations I first wrote the benefits of making the improvemtents and why it was necessary.
 - I also clearly wrote the level of risk the company faces and the reasons why.
 
-###Ref 4: Administration/Managerial Controls*
+### Ref 4: Administration/Managerial Controls*
 <img src= "https://github.com/user-attachments/assets/36cdcfd4-a51b-477a-babf-6d2b2f8e4d72" />
 
 - I began listing the changes Botium Toys needed to make to its administration/managerial contorls.
 
-###Ref 5: Technical Controls*
+### Ref 5: Technical Controls*
 
 <img src= "https://github.com/user-attachments/assets/53ebd51e-9685-4b4c-b5e4-2e112cebd055" />
 
@@ -58,13 +58,13 @@ As I went through the checklist and wrote my recommendations, I read the "Botium
 
 - Next, I listed the changes Botium Toys needed to make to its technical controls.
 
-###Ref 6: Physical Controls*
+### Ref 6: Physical Controls*
 
 <img src= "https://github.com/user-attachments/assets/8fe62672-6ea4-4b59-b251-92c843943dce"/>
 
  - Then, I listed some improvements that Botium Toys could implement to its physical controls.
 
-###Ref 7: Suggestions/Improvements*
+### Ref 7: Suggestions/Improvements*
 
 <img src= "https://github.com/user-attachments/assets/d4d8ef0e-7c62-47ab-b939-05dd13fff429" />
 
